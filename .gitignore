@@ -29,3 +29,12 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# Others
+.gitconfig
